@@ -25,7 +25,7 @@ else if (vaqt >= 12 && vaqt <= 17) {
     alert(`Hozir abedgi soat ${yangiVaqt}`);
 }
 else if (vaqt >= 18 && vaqt <= 23) {
-    let yangiSoat = vaqt - 12;
+    let yangiVaqt = vaqt - 12;
     alert(`Hozir kechki soat ${yangiVaqt}`);
 }
  
