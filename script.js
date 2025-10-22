@@ -1,4 +1,6 @@
 
+
+
 // YOSH_QISMI
 
 let age = +prompt('Yoshingizni kiriting')
@@ -11,6 +13,8 @@ if (age <= 18) {
 else {
     alert('Siz ishlashingiz kerak tezroq!')
 }
+
+
 
 
 // SOAT_QISMI
@@ -29,6 +33,8 @@ else if (vaqt >= 18 && vaqt <= 23) {
     alert(`Hozir kechki soat ${yangiVaqt}`);
 }
  
+
+
 
 // ORTA_SON_QISMI
 
