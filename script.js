@@ -1,11 +1,5 @@
-// const age = +prompt('Yoshingiz nechida?')
-// if (age <= 18) {
-//     alert('Siz oqishingiz kerak!')
-// } else {
-//     alert('Siz ishlashingiz kerak!')
-// }
 
-// buni ochsan >>>>>
+// YOSH_QISMI
 
 let age = +prompt('Yoshingizni kiriting')
 
@@ -18,18 +12,8 @@ else {
     alert('Siz ishlashingiz kerak tezroq!')
 }
 
-// bularni eman....
 
-
-// const vaqt = +prompt('Soat nechi boldi?')
-
-// if (vaqt <= 11) {
-//     alert(`Soat ertalabgi ${vaqt}`)
-// } else if (vaqt >= 24) {
-//     alert(`Soat kechki ${vaqt}`)
-// } else {
-//     (`Soat abedki ${vaqt}`)
-// }
+// SOAT_QISMI
 
 let vaqt = +prompt('Soat nechi bo‘ldi?');
 
@@ -45,6 +29,9 @@ else if (vaqt >= 18 && vaqt <= 23) {
     alert(`Hozir kechki soat ${yangiVaqt}`);
 }
  
+
+// ORTA_SON_QISMI
+
 let a = +prompt('Son kirgizing!')
 let b = +prompt('Ikkinchi soni kirgizing!')
 let c = +prompt('Uchinchi soni kirgizing!')
