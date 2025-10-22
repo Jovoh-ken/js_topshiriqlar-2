@@ -7,16 +7,16 @@
 
 // buni ochsan >>>>>
 
-// let age = +prompt('Yoshingizni kiriting')
+let age = +prompt('Yoshingizni kiriting')
 
-// if (age <= 18) {
-//     alert('Siz halli oqishingiz keree jigar!')
-// } else if (age >= 50) {
-//     alert('Siz pensiyadasiz dam oling :)')
-// }
-// else {
-//     alert('Siz ishlashingiz kerak tezroq!')
-// }
+if (age <= 18) {
+    alert('Siz halli oqishingiz keree jigar!')
+} else if (age >= 50) {
+    alert('Siz pensiyadasiz dam oling :)')
+}
+else {
+    alert('Siz ishlashingiz kerak tezroq!')
+}
 
 // bularni eman....
 
